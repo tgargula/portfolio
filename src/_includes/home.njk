@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>{{ title }}</title>
+        <link rel="stylesheet" href="/css/home.css">
+        <script async defer src="/scripts/home.js" type="module"></script>
+    </head>
+    <body>
+        <main>
+            <h1 id="title">{{ title }}</h1>
+            <p id="subtitle">{{ subtitle | safe }}</p>
+        </main>
+        <article class="content">
+            {{ content | safe }}
+        </article>
+    </body>
+</html>

@@ -45,11 +45,13 @@ body {
     position: relative;
     margin: 0;
     display: grid;
-    grid-template-columns: minmax(1rem, 1fr) minmax(15rem, 45rem) minmax(1rem, 1fr);
+    grid-template-columns: minmax(1rem, 1fr) [main-content-start] minmax(15rem, 45rem) [main-content-end] minmax(1rem, 1fr);
+    overflow-x: hidden;
 }
 
 main {
     padding: 15% 0;
+    grid-column: main-content;
 }
 
 p,
