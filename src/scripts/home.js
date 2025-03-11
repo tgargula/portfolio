@@ -38,7 +38,7 @@ document.addEventListener('mousemove', (event) => {
             gravity: 1 / 2,
         };
 
-        document.body.appendChild(particle);
+        document.getElementById('overlay').appendChild(particle);
         requestAnimationFrame((t) => animateParticle(particle, physics, t));
     }
 })
@@ -58,7 +58,7 @@ document.addEventListener('touchmove', (event) => {
                 gravity: 1 / 2,
             };
 
-            document.body.appendChild(particle);
+            document.getElementById('overlay').appendChild(particle);
             requestAnimationFrame((t) => animateParticle(particle, physics, t));
         }
     }
@@ -81,6 +81,6 @@ document.addEventListener('click', (event) => {
 
         requestAnimationFrame((t) => animateParticle(particle, physics, t));
 
-        document.body.appendChild(particle);
+        document.getElementById('overlay').appendChild(particle);
     }
 })

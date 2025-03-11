@@ -38,3 +38,9 @@ article.content {
 span.primary {
     color: var(--color-primary-500);
 }
+
+div#overlay {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
