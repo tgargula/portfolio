@@ -14,6 +14,18 @@ html {
     box-sizing: border-box;
 }
 
+@keyframes fade-in-down {
+    from {
+        opacity: 0;
+        transform: translateY(-1rem);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
 a {
     color: var(--color-primary-500);
     text-decoration: none;
@@ -45,13 +57,14 @@ body {
     position: relative;
     margin: 0;
     display: grid;
-    grid-template-columns: minmax(1rem, 1fr) [main-content-start] minmax(15rem, 45rem) [main-content-end] minmax(1rem, 1fr);
+    grid-template-columns: minmax(1rem, 1fr) [main-content] minmax(15rem, 45rem) minmax(1rem, 1fr);
     overflow-x: hidden;
 }
 
 main {
     padding: 15% 0;
     grid-column: main-content;
+    animation: fade-in-down 1200ms ease-in-out;
 }
 
 p,

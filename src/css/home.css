@@ -16,12 +16,14 @@ main {
 article.content {
     grid-row: content;
     grid-column: main-content;
+    animation: fade-in-down 1200ms ease-in-out;
 }
 
 #title {
     font-size: 4rem;
     line-height: 8rem;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
     margin: 0;
     padding: 0;
     text-align: center;
