@@ -19,6 +19,7 @@ aside {
     max-width: 100%;
     height: max-content;
     padding: 0 2rem;
+    animation: fade-in-down 1200ms ease-in-out;
 }
 
 ul.toc {
