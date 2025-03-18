@@ -36,6 +36,15 @@ If you choose to take a car, parking in the city center may be a bit problematic
     - About 1 euro / hour
     - The list of apps is available in the link above
 
+### Taxis
+
+There is also an option to get a cab. The most common practice is to compare the prices in different apps and get the one that is closer to our needs. One may be cheaper, the other one may be faster. The prices are quite low compared to other European cities.
+
+- Bolt
+- Uber
+- FreeNow
+
+
 ### Bike
 
 Warsaw is quite bike-friendly. There are a lot of bike paths and bike lanes. It is a pretty efficient way of transport. There’s a public short term rental for the bikes called Veturilo. Warsaw is quite safe, but don’t forget to lock your bike.
@@ -116,3 +125,38 @@ A traditional polish meal consists of three dishes: a soup, a main dish, and a d
 - pączki - you need to try at least one!
 - ice cream - tbh, the best ice cream I've ever eaten was in Poland
 - szarlotka (apple pie)
+
+
+## What to visit?
+
+### Sites
+
+#### Old Town
+The oldest part of the city. It has a lot of historic buildings with the Royal Castle, the Sigismund Column, and the Market Square.
+
+#### Nowy Świat / Krakowskie Przedmieście
+This street leads to the old town and contains a lot of historic buildings with a lot of tenements and other significant buildings like European Hotel, University of Warsaw, Copernicus Monument, Bristol Hotel, Presidential Palace, Prus & Mickiewicz Monuments.
+
+#### Piłsudski Square
+It's a square close to the Krakowskie Przedmieście street with a lot of important monuments including: Tomb of the Unknown Soldier, Piłsudski monument, Monument to the Victims of the Smolensk Tragedy in 2010, etc.
+
+#### Łazienki Park
+A really nice park :)
+
+#### Pałac Kultury i Nauki (Palace of Culture and Science)
+It's a huge building in the new center of Warsaw, close to the main station. You can take an elevator upstairs for a small fee to experience nice views from above.
+
+
+### Museums
+
+#### National Museum
+National Art Gallery - what else do you need?
+
+#### Museum of Contemporary Art
+While it gained a lot of critics because of pretty unusual looks from the outside, it is quite good. The center of Warsaw has a very mixed architecture style, so it actually suits there. I would never do that in Krakow though.
+
+#### Warsaw Uprising Museum
+The Poles value a lot the history of Poland regaining or fighting for the independence. Throughout the visit, you can learn a lot about the Warsaw Uprising of 1944.
+
+#### Copernicus Science Center
+If you're a science fan, this place is for you!

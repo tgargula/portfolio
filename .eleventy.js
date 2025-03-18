@@ -5,6 +5,7 @@ const markdownItAnchor = require("markdown-it-anchor");
 module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("./src/css/*");
     eleventyConfig.addPassthroughCopy("./src/scripts/*");
+    eleventyConfig.addPassthroughCopy("./src/assets/*");
     eleventyConfig.addWatchTarget("./src/css/*");
     eleventyConfig.addWatchTarget("./src/scripts/*");
     eleventyConfig.setNunjucksEnvironmentOptions({
